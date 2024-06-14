@@ -28,19 +28,19 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 # Unidades de Trabajo
 
-[UT01 - UT02: Introducción a la programación. Identificación de los elementos de un programa](https://github.com/profeMelola/Programacion-01-2023-24)
+[UT01 - UT02: Introducción a la programación. Identificación de los elementos de un programa](https://github.com/Trinal17/Programacion-01)
 
-[UT03: Uso de estructuras de control](https://github.com/profeMelola/Programacion-03-2023-24)
+[UT03: Uso de estructuras de control](https://github.com/Trinal17/Programacion-03)
 
-[UT04: String y Array. Estructuras de almacenamiento](https://github.com/profeMelola/Programacion-04-2023-24)
+[UT04: String y Array. Estructuras de almacenamiento](https://github.com/Trinal17/Programacion-04)
 
-[UT05-06-07-08: Programación Orientada a Objetos + Excepciones](https://github.com/profeMelola/Programacion-05-2023-24)
+[UT05-06-07-08: Programación Orientada a Objetos + Excepciones](https://github.com/Trinal17/Programacion-05)
 
-[UT09: Colecciones de datos](https://github.com/profeMelola/Programacion-06-2023-24)
+[UT09: Colecciones de datos](https://github.com/Trinal17/Programacion-06)
 
-[UT10-11: Lectura y escritura de información](https://github.com/profeMelola/Programacion-07-2023-24)
+[UT10-11: Lectura y escritura de información](https://github.com/Trinal17/Programacion-07)
 
-[UT10-12: Gestión de bases de datos relacionales y persistencia](https://github.com/profeMelola/Programacion-08-2023-24)
+[UT10-12: Gestión de bases de datos relacionales y persistencia](https://github.com/Trinal17/Programacion-08)
 
 
 
